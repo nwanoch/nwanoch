@@ -6,8 +6,7 @@
  
 
 - 🔭 I’m currently working on Buiding Projects that tends to satisfy customer and business needs
-- 🌱 I currently work with Nextjs, tailwindcss, Node and Typescript for web development and Flutter for mobile app development.
-- 👯 I’m looking to collaborate on Projects and Open source contribution.
+- 🌱 I currently work with Nextjs, tailwindcss, React Native, Node and Typescript for web development.
 - 📫 How to reach me: emmanuelnwanochie247@gmail.com
 
 <hr>
