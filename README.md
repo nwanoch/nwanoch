@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Emmanuel 
- 
-![Profile views](https://gpvc.arturio.dev/wenotch)  
+  
 <!-- -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="Nwanochie Emmanuel" width="410" /> 
+ 
  
 
 - 🔭 I’m currently working on Buiding Projects that tends to satisfy customer and business needs
