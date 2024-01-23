@@ -5,7 +5,7 @@
  
  
 
-- 🔭 I’m currently working on Buiding Projects that tends to satisfy customer and business needs
+- 🔭 I’m currently working on Buiding Projects that satisfy customer and business needs
 - 🌱 I currently work with Nextjs, tailwindcss, React, React Native, Nestjs, Node and Typescript for web development.
 - 📫 How to reach me: emmanuelnwanochie247@gmail.com
 
