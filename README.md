@@ -1,4 +1,4 @@
-### Hi there 👋, I am Emmanuel. This is my backup repo. I havhe been on github since 2019.  Github blacklisted my main account (wenotch)
+### Hi there 👋, I am Emmanuel. This is my backup repo. I have been on github since 2019.  Github blacklisted my main account (wenotch)
   
 <!-- -->
 
