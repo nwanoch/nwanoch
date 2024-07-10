@@ -1,4 +1,7 @@
-### Hi there 👋, I am Emmanuel. This is my backup repo. I have been on github since 2019.  Github blacklisted my main account (wenotch)
+
+
+## This is my backup repo. I have been on github since 2019.  Github blacklisted my main account (wenotch)
+### Hi there 👋, I am Emmanuel. T
   
 <!-- -->
 
@@ -6,7 +9,7 @@
  
 
 - 🔭 I’m currently working on Buiding Projects that satisfy customer and business needs
-- 🌱 I currently work as a Fullstack Developer with  Nestjs, Nextjs, tailwindcss, React, React Native,, Node and Typescript for web development.
+- 🌱 I currently work as a Fullstack Developer/ Devops Specialist with  Nestjs, Nextjs, tailwindcss, React, React Native,, Node and Typescript for web development.
 - 📫 How to reach me: emmanuelnwanochie247@gmail.com
 
 <hr>
