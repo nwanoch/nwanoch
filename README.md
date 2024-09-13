@@ -1,9 +1,6 @@
 # 💫 About Me:
 ### Emmanuel Nwanochie 
-<br>AI-Augmented Full-Stack Engineer | DevOps Specialist | Social Impact Technologist<br>Greetings, fellow code voyagers! 👋 I'm Emmanuel, a seasoned developer with a passion for crafting digital solutions that bridge technology and social impact.<br><br>🚀 What I'm Up To<br>🔭 Architecting projects that harmonize customer satisfaction with business objectives<br>🌱 Wielding a powerful tech stack: NestJS, Next.js, Tailwind CSS, React, React Native, Node.js, and TypeScript<br>🤖 Exploring the frontiers of AI integration in web and mobile applications<br><br>
-
-### 💡 My Philosophy 
-I believe in the transformative power of technology to address real-world challenges. My mission is to leverage AI and cutting-edge web technologies to create solutions that not only meet but exceed expectations.<br>
+<br>AI-Augmented Full-Stack Engineer | DevOps Specialist , fellow code voyagers! 👋 I'm Emmanuel, a seasoned developer with a passion for crafting digital solutions that bridge technology and social impact.<br><br>🚀 What I'm Up To<br>🔭 Architecting projects that harmonize customer satisfaction with business objectives<br>🌱 Wielding a powerful tech stack: NestJS, Next.js, Tailwind CSS, React, React Native, Node.js, and TypeScript<br>🤖 Exploring the frontiers of AI integration in web and mobile applications<br><br>
 
 ### 📈 Previous Contributions
 While this account doesn't reflect my full history, my lost primary account showcased:<br><br>15,000+ commits<br>6 years of consistent contribution<br>Numerous projects and collaboration<br>I'm excited to rebuild and surpass these milestones in the coming years!
